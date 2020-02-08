@@ -1,0 +1,12 @@
+img{
+    border-radius: 30px;
+}
+ 
+body{
+background-image: url("../image/photo.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+font-weight: normal!important;
+
+}
