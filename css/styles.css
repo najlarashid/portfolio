@@ -10,6 +10,21 @@ background-attachment: fixed;
 font-weight: normal!important;
 
 }
+
 h1{
-    
+    color:#AF7AC5;
 }
+
+h2, h3{
+    color:#A93226;
+    font-size: 25px;
+}
+
+p{color white;
+    font-size:20px;
+    color:#AF7AC5
+}
+ Najla{
+     color:forestgreen;
+     font-size: 20px;
+ }
